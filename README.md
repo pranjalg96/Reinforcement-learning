@@ -10,7 +10,7 @@ cnn_cartpole.ipynb: Implementation of DQN with raw pixels (CNN) on Cartpole envi
 
 cnn_breakout.ipynb: Initial implementation of DQN with CNN on Atari Breakout (states are raw pixels)
 
-deep_q_network_breakout: Modular implementation of DQN with CNN on Atari Breakout (includes option for Double DQN or Dueling architecture)
+deep_q_network_breakout.ipynb: Modular implementation of DQN with CNN on Atari Breakout (includes option for Double DQN or Dueling architecture)
 
 ## Contact
 email: pranjalg96@gmail.com
